@@ -1,6 +1,6 @@
 # student-resumes
 
-This is the location for Cohort XIII resumes to be shared with employers.
+This is the location for the current student resumes to be shared with employers.
 
 ## Student instructions
 
